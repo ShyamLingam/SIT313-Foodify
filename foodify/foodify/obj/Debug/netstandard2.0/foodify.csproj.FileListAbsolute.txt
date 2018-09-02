@@ -1,0 +1,12 @@
+/Users/wish/Desktop/foodify/foodify/foodify/bin/Debug/netstandard2.0/foodify.deps.json
+/Users/wish/Desktop/foodify/foodify/foodify/bin/Debug/netstandard2.0/foodify.dll
+/Users/wish/Desktop/foodify/foodify/foodify/bin/Debug/netstandard2.0/foodify.pdb
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/foodify.csproj.CoreCompileInputs.cache
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/foodify.AssemblyInfoInputs.cache
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/foodify.AssemblyInfo.cs
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/foodify.dll
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/foodify.pdb
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/foodify.csprojResolveAssemblyReference.cache

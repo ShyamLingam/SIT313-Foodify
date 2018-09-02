@@ -1,16 +1,15 @@
-﻿<Properties StartupConfiguration="{2ACB207E-055D-41C4-87DD-D47576E4710B}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{A9887952-6804-4676-B542-B36E7C425A85}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="foodify.Android/Resources/values/styles.xml">
     <Files>
-      <File FileName="foodify/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="foodify.Android/Resources/values/styles.xml" Line="2" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.foodify FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.foodify.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.foodify.Android PreferredExecutionTarget="Android.Pixel_XL_API_23" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.foodify.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.foodify.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1781708C-8179-4C0C-B26D-061175E6E107" />
 </Properties>
