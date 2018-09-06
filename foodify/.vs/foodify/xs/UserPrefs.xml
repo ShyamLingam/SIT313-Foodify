@@ -1,7 +1,18 @@
 ﻿<Properties StartupConfiguration="{A9887952-6804-4676-B542-B36E7C425A85}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="foodify.Android/Resources/values/styles.xml">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="foodify.Android/Resources/values/styles.xml" Line="2" Column="1" />
+      <File FileName="foodify/LoginPage.xaml" Line="12" Column="1" />
+      <File FileName="foodify/LoginPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="foodify/HomePage.xaml" Line="12" Column="1" />
+      <File FileName="foodify/HomePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="foodify/ProfilePage.xaml" Line="13" Column="1" />
+      <File FileName="foodify/ProfilePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="foodify/MySavedList.xaml" Line="12" Column="1" />
+      <File FileName="foodify/MySavedList.xaml.cs" Line="1" Column="1" />
+      <File FileName="foodify/CompletedPage.xaml" Line="13" Column="1" />
+      <File FileName="foodify/CompletedPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="foodify/MainPage.xaml.cs" Line="21" Column="10" />
+      <File FileName="foodify/MainPage.xaml" Line="10" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -11,5 +22,5 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.foodify.Android PreferredExecutionTarget="Android.Pixel_XL_API_23" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.foodify.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1781708C-8179-4C0C-B26D-061175E6E107" />
+  <MonoDevelop.Ide.ItemProperties.foodify.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F8001648-9040-4B07-917E-0E8234686887" />
 </Properties>

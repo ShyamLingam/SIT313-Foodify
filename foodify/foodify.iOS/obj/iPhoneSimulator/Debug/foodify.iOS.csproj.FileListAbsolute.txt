@@ -50,8 +50,14 @@
 /Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
 /Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
 /Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
-/Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/foodify.iOS.csprojResolveAssemblyReference.cache
 /Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/foodify.iOS.csproj.CoreCompileInputs.cache
 /Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/foodify.iOS.exe
 /Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/foodify.iOS.pdb
+/Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/account.png
+/Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/list.png
+/Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/swap.png
+/Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/thumb.png
+/Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/user.png
+/Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/foodify.iOS.csprojAssemblyReference.cache
+/Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/foodify.iOS.csproj.CopyComplete

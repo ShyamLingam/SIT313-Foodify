@@ -9,4 +9,9 @@
 /Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/foodify.dll
 /Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/foodify.pdb
-/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/foodify.csprojResolveAssemblyReference.cache
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/foodify.csprojAssemblyReference.cache
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/CompletedPage.xaml.g.cs
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/HomePage.xaml.g.cs
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/LoginPage.xaml.g.cs
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/MySavedList.xaml.g.cs
+/Users/wish/Desktop/foodify/foodify/foodify/obj/Debug/netstandard2.0/ProfilePage.xaml.g.cs

@@ -158,4 +158,11 @@
       <Name>foodify</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\account.png" />
+    <BundleResource Include="Resources\list.png" />
+    <BundleResource Include="Resources\swap.png" />
+    <BundleResource Include="Resources\thumb.png" />
+    <BundleResource Include="Resources\user.png" />
+  </ItemGroup>
 </Project>
