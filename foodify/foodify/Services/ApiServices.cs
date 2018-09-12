@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Net.Http;
 using System.Threading.Tasks;
-using FitnessGuru.Model;
+using foodify.Model;
 using Newtonsoft.Json;
 
-namespace FitnessGuru.Services
+namespace foodify.Services
 {
     public class ApiServices
     {

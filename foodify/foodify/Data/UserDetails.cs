@@ -1,5 +1,5 @@
 ﻿using System;
-namespace FitnessGuru.Data
+namespace foodify.Data
 {
     public class UserDetails
     {

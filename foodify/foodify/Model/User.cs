@@ -1,5 +1,5 @@
 ﻿using System;
-namespace FitnessGuru.Model
+namespace foodify.Model
 {
     public class User
     {

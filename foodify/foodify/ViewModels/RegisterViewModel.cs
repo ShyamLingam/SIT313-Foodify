@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Windows.Input;
-using FitnessGuru.Services;
+using foodify.Services;
 using Xamarin.Forms;
 
-namespace FitnessGuru.ViewModels
+namespace foodify.ViewModels
 {
     public class RegisterViewModel
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 
-namespace FitnessGuru.Model
+namespace foodify.Model
 {
     public class Constants
     {

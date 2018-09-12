@@ -1,18 +1,24 @@
-﻿<Properties StartupConfiguration="{A9887952-6804-4676-B542-B36E7C425A85}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{2ACB207E-055D-41C4-87DD-D47576E4710B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="foodify/Register.xaml.cs">
     <Files>
-      <File FileName="foodify/LoginPage.xaml" Line="12" Column="1" />
-      <File FileName="foodify/LoginPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="foodify/HomePage.xaml" Line="12" Column="1" />
-      <File FileName="foodify/HomePage.xaml.cs" Line="1" Column="1" />
-      <File FileName="foodify/ProfilePage.xaml" Line="13" Column="1" />
-      <File FileName="foodify/ProfilePage.xaml.cs" Line="1" Column="1" />
-      <File FileName="foodify/MySavedList.xaml" Line="12" Column="1" />
-      <File FileName="foodify/MySavedList.xaml.cs" Line="1" Column="1" />
-      <File FileName="foodify/CompletedPage.xaml" Line="13" Column="1" />
-      <File FileName="foodify/CompletedPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="foodify/MainPage.xaml.cs" Line="21" Column="10" />
+      <File FileName="foodify/HomePage.xaml" Line="34" Column="126" />
+      <File FileName="foodify/HomePage.xaml.cs" Line="47" Column="63" />
+      <File FileName="foodify/Model/MediaModel.cs" Line="5" Column="18" />
+      <File FileName="foodify/Model/RegisterBindingModel.cs" Line="2" Column="18" />
+      <File FileName="foodify/Model/User.cs" Line="3" Column="2" />
+      <File FileName="foodify/Services/ApiServices.cs" Line="17" Column="31" />
+      <File FileName="Source Not Available" />
+      <File FileName="foodify/ApiList.cs" Line="18" Column="6" />
       <File FileName="foodify/MainPage.xaml" Line="10" Column="14" />
+      <File FileName="foodify/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="foodify/App.xaml.cs" Line="15" Column="60" />
+      <File FileName="foodify/LoginPage.xaml" Line="25" Column="1" />
+      <File FileName="foodify/LoginPage.xaml.cs" Line="17" Column="48" />
+      <File FileName="foodify/Register.xaml" Line="15" Column="38" />
+      <File FileName="foodify/ResetPage.xaml" Line="11" Column="11" />
+      <File FileName="foodify/ViewModels/RegisterViewModel.cs" Line="6" Column="11" />
+      <File FileName="foodify/ResetPage.xaml.cs" Line="14" Column="6" />
+      <File FileName="foodify/Register.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -22,5 +28,5 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.foodify.Android PreferredExecutionTarget="Android.Pixel_XL_API_23" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.foodify.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F8001648-9040-4B07-917E-0E8234686887" />
+  <MonoDevelop.Ide.ItemProperties.foodify.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F8001648-9040-4B07-917E-0E8234686887" automaticSigning="False" />
 </Properties>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Xamarin.Forms;
 
-namespace FitnessGuru.Model
+namespace foodify.Model
 {
     public class MediaModel
     {

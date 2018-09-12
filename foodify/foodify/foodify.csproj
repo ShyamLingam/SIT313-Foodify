@@ -10,5 +10,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="HomePage.cs" />
+    <Compile Remove="SplashScreen.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
   </ItemGroup>
 </Project>

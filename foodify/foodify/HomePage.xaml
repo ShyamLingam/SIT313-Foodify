@@ -2,10 +2,45 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="foodify.HomePage"
              Title="Home" Icon="list.png">
     <ContentPage.Content>
-         <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
-            
-            <Label Text="Home Page"/>
-            
+        <StackLayout HorizontalOptions="Center" VerticalOptions="FillAndExpand">
+            <Label x:Name="lbnlRoutine" Text="Select your Food" Font="30" TextColor="Green" HorizontalTextAlignment="Center" />
+  
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+            </Grid>
+            <ListView x:Name="WorkoutListView" HasUnevenRows="true"  >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Grid BackgroundColor="White">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="60" />
+                                        <RowDefinition Height="*" />
+                                       
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="300" />
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Switch IsToggled="{Binding IsToggled}" Toggled="Handle_Toggled" HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="0" Grid.Column="1" />
+                                     <Label Text="Favourite" Font="20" Margin="5" Grid.Row="1" Grid.Column="1" TextColor="Red" />
+                                    <Label Text="{Binding name}" Font="20" Margin="5" Grid.Row="0" Grid.Column="0" TextColor="Green" />
+                                    <Label Text="{Binding excercise}" Margin="5" Grid.Row="1" Grid.Column="0" />
+                                    <!--<BoxView HeightRequest="1"  BackgroundColor="Gray" Grid.Row="4" HorizontalOptions="CenterAndExpand" />-->
+                                </Grid>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
