@@ -22,7 +22,7 @@
                             <StackLayout>
                                 <Grid BackgroundColor="White">
                                     <Grid.RowDefinitions>
-                                        <RowDefinition Height="60" />
+                                        <RowDefinition Height="100" />
                                         <RowDefinition Height="*" />
                                        
                                     </Grid.RowDefinitions>

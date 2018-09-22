@@ -819,19 +819,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/wish/.nuget/packages/": {}
+    "/Users/Shyam/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wish/Desktop/foodify/foodify/foodify.Android/foodify.Android.csproj",
+      "projectUniqueName": "/Users/Shyam/repos/foodify/foodify/foodify.Android/foodify.Android.csproj",
       "projectName": "foodify.Android",
-      "projectPath": "/Users/wish/Desktop/foodify/foodify/foodify.Android/foodify.Android.csproj",
-      "packagesPath": "/Users/wish/.nuget/packages/",
-      "outputPath": "/Users/wish/Desktop/foodify/foodify/foodify.Android/obj",
+      "projectPath": "/Users/Shyam/repos/foodify/foodify/foodify.Android/foodify.Android.csproj",
+      "packagesPath": "/Users/Shyam/.nuget/packages/",
+      "outputPath": "/Users/Shyam/repos/foodify/foodify/foodify.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/wish/.config/NuGet/NuGet.Config"
+        "/Users/Shyam/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid81"
@@ -842,8 +842,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/wish/Desktop/foodify/foodify/foodify/foodify.csproj": {
-              "projectPath": "/Users/wish/Desktop/foodify/foodify/foodify/foodify.csproj"
+            "/Users/Shyam/repos/foodify/foodify/foodify/foodify.csproj": {
+              "projectPath": "/Users/Shyam/repos/foodify/foodify/foodify/foodify.csproj"
             }
           }
         }

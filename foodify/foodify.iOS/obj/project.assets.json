@@ -787,19 +787,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/wish/.nuget/packages/": {}
+    "/Users/Shyam/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wish/Desktop/foodify/foodify/foodify.iOS/foodify.iOS.csproj",
+      "projectUniqueName": "/Users/Shyam/repos/foodify/foodify/foodify.iOS/foodify.iOS.csproj",
       "projectName": "foodify.iOS",
-      "projectPath": "/Users/wish/Desktop/foodify/foodify/foodify.iOS/foodify.iOS.csproj",
-      "packagesPath": "/Users/wish/.nuget/packages/",
-      "outputPath": "/Users/wish/Desktop/foodify/foodify/foodify.iOS/obj",
+      "projectPath": "/Users/Shyam/repos/foodify/foodify/foodify.iOS/foodify.iOS.csproj",
+      "packagesPath": "/Users/Shyam/.nuget/packages/",
+      "outputPath": "/Users/Shyam/repos/foodify/foodify/foodify.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/wish/.config/NuGet/NuGet.Config"
+        "/Users/Shyam/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -810,8 +810,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/wish/Desktop/foodify/foodify/foodify/foodify.csproj": {
-              "projectPath": "/Users/wish/Desktop/foodify/foodify/foodify/foodify.csproj"
+            "/Users/Shyam/repos/foodify/foodify/foodify/foodify.csproj": {
+              "projectPath": "/Users/Shyam/repos/foodify/foodify/foodify/foodify.csproj"
             }
           }
         }
