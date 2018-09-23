@@ -11,7 +11,7 @@ namespace foodify
         public const string V = "Completed";
         public event EventHandler<SelectedItemChangedEventArgs> SelectedOrToggled;
 
-        //Workout List view
+        //Food List view
         public HomePage()
         {
             InitializeComponent();

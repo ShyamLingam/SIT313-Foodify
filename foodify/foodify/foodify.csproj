@@ -15,4 +15,7 @@
   <ItemGroup>
     <Folder Include="Services\" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="Data\myImage.png" />
+  </ItemGroup>
 </Project>

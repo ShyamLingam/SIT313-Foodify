@@ -3,21 +3,19 @@
               Title="Login" Icon="swap.png">
     <ContentPage.Content>
         <StackLayout x:Name="Masterlayout">
-            
             <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
-                <Image x:Name="Login_Icon" Source="FitnessGuruLogo.png" Margin="0,20,0,0"/>
+                <Image x:Name="Login_Icon" Source="logo.png" Margin="0,20,0,0" />
             </StackLayout>
         
     <StackLayout  VerticalOptions="StartAndExpand">
                 <ActivityIndicator x:Name="ActivitySpinner" Color="Silver" IsRunning="false" />
-            <Label x:Name="Lbl_Login" Text="Login" FontSize="30" HorizontalOptions="Center" VerticalOptions="Center"/>
-
+            <Label x:Name="Lbl_Login" Text="Login" FontSize="30" HorizontalOptions="Center" VerticalOptions="Center" />
             <Entry x:Name="Entry_Username" Margin="5" Placeholder="Username" HorizontalOptions="FillAndExpand" TextColor="Green" />
             <Entry x:Name="Entry_Password" Margin="5" Placeholder="Password" HorizontalOptions="FillAndExpand" TextColor="Green" />
             <Button x:Name="Btn_Login" Text="LOGIN" Margin="5"  Font="20"  Clicked="LoginClickedAsync" BackgroundColor="White"/>
             <Button x:Name="Btn_Reset" Margin="5" Text="Reset Password" HorizontalOptions="FillAndExpand" Clicked="BtnReset" BackgroundColor="White"/>
-            <Button x:Name="Btn_Reg" Margin="5" Text="Register" HorizontalOptions="FillAndExpand" Clicked="BtnReg"/>
-            <Button x:Name="Btn_Skipp" Margin="5" Text="Skip to Main Screen" HorizontalOptions="FillAndExpand" Clicked="BtnSkipp" BackgroundColor=" Purple" TextColor="White"/>
+            <Button x:Name="Btn_Reg" Margin="5" Text="Register" TextColor="White" FontAttributes="Bold" HorizontalOptions="FillAndExpand" Clicked="BtnReg"/>
+            <Button x:Name="Btn_Skipp" Margin="5" Text="Skip to Main Screen" HorizontalOptions="FillAndExpand" Clicked="BtnSkipp" BackgroundColor=" Purple" FontAttributes="Bold" TextColor="White"/>
             </StackLayout>
            </StackLayout>
     </ContentPage.Content>
