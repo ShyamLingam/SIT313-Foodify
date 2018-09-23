@@ -8,10 +8,13 @@ namespace foodify
         {
         public string id { get; set; }
 
-        public string name { get; set; }
+        public string Recipe { get; set; }
 
-        public string excercise { get; set; }
-        }
+        public string Ingredients { get; set; }
+
+        public string Instructions { get; set; }
+
+    }
     public class foodList
     {
         public List<ApiList> workouts { get; set; }

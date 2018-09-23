@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{A9887952-6804-4676-B542-B36E7C425A85}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="foodify/HomePage.xaml.cs">
     <Files>
-      <File FileName="foodify/HomePage.xaml" Line="26" Column="56" />
+      <File FileName="foodify/HomePage.xaml" Line="36" Column="82" />
       <File FileName="foodify/HomePage.xaml.cs" Line="37" Column="85" />
       <File FileName="foodify/Model/MediaModel.cs" Line="5" Column="18" />
       <File FileName="foodify/Model/RegisterBindingModel.cs" Line="2" Column="18" />
       <File FileName="foodify/Model/User.cs" Line="3" Column="2" />
       <File FileName="foodify/Services/ApiServices.cs" Line="17" Column="31" />
-      <File FileName="foodify/ApiList.cs" Line="18" Column="6" />
+      <File FileName="foodify/ApiList.cs" Line="15" Column="49" />
       <File FileName="foodify/MainPage.xaml" Line="10" Column="14" />
       <File FileName="foodify/MainPage.xaml.cs" Line="1" Column="1" />
       <File FileName="foodify/App.xaml.cs" Line="15" Column="60" />
@@ -31,6 +31,7 @@
           <Node name="foodify" expanded="True">
             <Node name="foodify" expanded="True">
               <Node name="Model" expanded="True" />
+              <Node name="Services" expanded="True" />
               <Node name="HomePage.xaml" expanded="True">
                 <Node name="HomePage.xaml.cs" selected="True" />
               </Node>

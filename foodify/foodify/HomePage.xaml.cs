@@ -34,7 +34,7 @@ namespace foodify
 
             //HttpClient client = new HttpClient();
             var client = new System.Net.Http.HttpClient();
-            var response = await client.GetAsync("https://api.myjson.com/bins/1eoqzw");
+            var response = await client.GetAsync("https://api.myjson.com/bins/13pavw");
             string JsonData = await response.Content.ReadAsStringAsync();
             foodList ObjfoodList = new foodList();
 
