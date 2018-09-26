@@ -43,6 +43,9 @@
 /Users/wish/Desktop/foodify/foodify/foodify.Android/obj/Debug/R.cs.flag
 /Users/wish/Desktop/foodify/foodify/foodify.Android/obj/Debug/R.txt
 /Users/wish/Desktop/foodify/foodify/foodify.Android/obj/Debug/uploadflags.txt
+/Users/Shyam/repos/foodify/foodify/foodify.Android/obj/Debug/foodify.Android.csprojAssemblyReference.cache
+/Users/Shyam/repos/foodify/foodify/foodify.Android/obj/Debug/foodify.Android.dll
+/Users/Shyam/repos/foodify/foodify/foodify.Android/obj/Debug/foodify.Android.pdb
 /Users/wish/Desktop/foodify/foodify/foodify.Android/bin/Debug/Mono.Android.pdb
 /Users/wish/Desktop/foodify/foodify/foodify.Android/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/wish/Desktop/foodify/foodify/foodify.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
@@ -55,6 +58,3 @@
 /Users/wish/Desktop/foodify/foodify/foodify.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
 /Users/wish/Desktop/foodify/foodify/foodify.Android/obj/Debug/linksrc/FormsViewGroup.dll.mdb
 /Users/wish/Desktop/foodify/foodify/foodify.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll.mdb
-/Users/Shyam/repos/foodify/foodify/foodify.Android/obj/Debug/foodify.Android.csprojAssemblyReference.cache
-/Users/Shyam/repos/foodify/foodify/foodify.Android/obj/Debug/foodify.Android.dll
-/Users/Shyam/repos/foodify/foodify/foodify.Android/obj/Debug/foodify.Android.pdb

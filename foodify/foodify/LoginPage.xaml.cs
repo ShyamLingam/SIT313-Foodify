@@ -26,13 +26,16 @@ namespace foodify
         }
         void Init()
         {
-            BackgroundColor = Constants.BackgroundColor;
+
             Lbl_Login.TextColor = Constants.GreenTextColor;
             ActivitySpinner.IsVisible = false;
             Login_Icon.HeightRequest = Constants.LoginIconHeight;
-            Btn_Reg.BackgroundColor = Color.Green;
+
             Entry_Username.Completed += (s, e) => Entry_Password.Focus();
             Entry_Password.Completed += (s, e) => Btn_Login.Focus();
+            Btn_Login.BackgroundColor = Color.Orange;
+            Btn_Reset.BackgroundColor = Color.Green;
+            Btn_Reg.BackgroundColor = Color.Green;
         }
 
 

@@ -383,23 +383,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/Shyam/.nuget/packages/": {},
+    "/Users/wish/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Shyam/repos/foodify/foodify/foodify/foodify.csproj",
+      "projectUniqueName": "/Users/wish/Desktop/foodify/foodify/foodify/foodify.csproj",
       "projectName": "foodify",
-      "projectPath": "/Users/Shyam/repos/foodify/foodify/foodify/foodify.csproj",
-      "packagesPath": "/Users/Shyam/.nuget/packages/",
-      "outputPath": "/Users/Shyam/repos/foodify/foodify/foodify/obj",
+      "projectPath": "/Users/wish/Desktop/foodify/foodify/foodify/foodify.csproj",
+      "packagesPath": "/Users/wish/.nuget/packages/",
+      "outputPath": "/Users/wish/Desktop/foodify/foodify/foodify/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Shyam/.config/NuGet/NuGet.Config"
+        "/Users/wish/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
