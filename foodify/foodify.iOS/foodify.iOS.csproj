@@ -127,7 +127,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms">
-      <Version>3.1.0.697729</Version>
+      <Version>3.2.0.839982</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
@@ -144,5 +144,6 @@
     <BundleResource Include="Resources\thumb.png" />
     <BundleResource Include="Resources\user.png" />
     <BundleResource Include="Resources\logo.png" />
+    <BundleResource Include="Resources\John.png" />
   </ItemGroup>
 </Project>

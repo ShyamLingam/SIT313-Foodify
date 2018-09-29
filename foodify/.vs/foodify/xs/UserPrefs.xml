@@ -1,17 +1,21 @@
-﻿<Properties StartupConfiguration="{2ACB207E-055D-41C4-87DD-D47576E4710B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="foodify/LoginPage.xaml.cs">
+﻿<Properties StartupConfiguration="{A9887952-6804-4676-B542-B36E7C425A85}|Default">
+  <MonoDevelop.Ide.ItemProperties.foodify.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.foodify.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.04DF4C91-478D-4361-97C1-3CD371A03E0E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="foodify/App.xaml">
     <Files>
       <File FileName="foodify/ApiList.cs" Line="15" Column="49" />
       <File FileName="foodify/LoginPage.xaml.cs" Line="36" Column="53" />
-      <File FileName="foodify/LoginPage.xaml" Line="15" Column="123" />
+      <File FileName="foodify/LoginPage.xaml" Line="23" Column="1" />
+      <File FileName="foodify/HomePage.xaml" Line="50" Column="1" />
+      <File FileName="foodify/HomePage.xaml.cs" Line="37" Column="51" />
+      <File FileName="foodify/ProfilePage.xaml" Line="18" Column="11" />
+      <File FileName="foodify/App.xaml" Line="63" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.foodify.Android PreferredExecutionTarget="Android.Pixel_XL_API_23" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.foodify.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F8001648-9040-4B07-917E-0E8234686887" automaticSigning="False" />
 </Properties>

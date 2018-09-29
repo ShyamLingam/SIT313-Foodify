@@ -126,3 +126,4 @@
 /Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/user.png
 /Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/logo.png
 /Users/wish/Desktop/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/Shyam/repos/foodify/foodify/foodify.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/John.png

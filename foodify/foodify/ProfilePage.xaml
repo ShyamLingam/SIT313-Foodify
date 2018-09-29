@@ -1,11 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="foodify.ProfilePage"
               Title="Profile" Icon="account.png">
+
+    <ScrollView>
+
+        <Grid ColumnSpacing="0" RowSpacing="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="AUTO" />
+                <RowDefinition Height="AUTO" />
+                <RowDefinition Height="AUTO" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="AUTO" />
+            </Grid.RowDefinitions>
+            
+            <!-- Header background -->
+           
+          
+            
+            <!-- profile image -->
+            <Image HeightRequest="100" HorizontalOptions="Center" Source="John.png" TranslationY="50" VerticalOptions="End" WidthRequest="100" />
+            
+            <!-- profile name -->
+            <StackLayout Grid.Row="1" Padding="0,50,0,00" HorizontalOptions="Center">
+                <Label HorizontalTextAlignment="Center" Style="{StaticResource ProfileNameLabel}" Text="John Stevenson"/>
+                <Label Margin="0,-5" HorizontalTextAlignment="Center" Style="{StaticResource ProfileTagLabel}" Text="Member since 05/03/2017" />
+            </StackLayout>
+            
+            <!-- social media URLs -->
+            <Grid Grid.Row="2" Margin="0,30" ColumnSpacing="0" RowSpacing="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                
+            <StackLayout>
+                <StackLayout.Children>
+
+                    <Image Source="http://bbcpersian7.com/images/facebook-clipart-png-circle-14.jpg" HeightRequest="50" WidthRequest="50"></Image>
+                    
+                <Label Style="{StaticResource StatsNumberLabel}" Text="342" />
+                <Label Style="{StaticResource StatsCaptionLabel}" Text="Likes" />
+
+                </StackLayout.Children>
+
+
+            </StackLayout>
+
+            <StackLayout Grid.Column="1">
+                <StackLayout.Children>
+                    
+                    <Image Source="https://lh3.googleusercontent.com/N-AY2XwXafWq4TQWfua6VyjPVQvTGRdz9CKOHaBl2nu2GVg7zxS886X5giZ9yY2qIjPh=w300" HeightRequest="50" WidthRequest="50"></Image>
+                    
+                <Label Style="{StaticResource StatsNumberLabel}" Text="164" />
+                <Label Style="{StaticResource StatsCaptionLabel}" Text="Follow Us" />
+                    
+                </StackLayout.Children>
+
+
+            
+            </StackLayout>
+            </Grid>
+
+        </Grid>
+
+
+    </ScrollView>
     <ContentPage.Content>
-        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+
+     
+        <StackLayout>
             
-            <Label Text="Profile Page"/>
             
+        
+
         </StackLayout>
         
     </ContentPage.Content>
