@@ -28,7 +28,7 @@
         <x:Double x:Key="TagTextFont">20</x:Double>
         <x:Double x:Key="StatsNumberFont">20</x:Double>
         <x:Double x:Key="StatsCaptionFont">20</x:Double>
-        
+        <x:Double x:Key="Email">8</x:Double>
         <!-- styles -->
         <Style x:Key="ProfileNameLabel" TargetType="Label">
             <Setter Property="TextColor" Value="{StaticResource HeaderTextColor}" />

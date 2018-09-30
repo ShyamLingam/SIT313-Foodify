@@ -1,12 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using foodify.Model;
+using SQLite;
 using Xamarin.Forms;
 
 namespace foodify
 {
     public partial class LoginPage : ContentPage
     {
+
+        public string EmailEntered;
+        public string passwordEntered;
         public LoginPage()
         {
             InitializeComponent();
@@ -31,7 +35,7 @@ namespace foodify
             ActivitySpinner.IsVisible = false;
             Login_Icon.HeightRequest = Constants.LoginIconHeight;
 
-            Entry_Username.Completed += (s, e) => Entry_Password.Focus();
+            Entry_Email.Completed += (s, e) => Entry_Password.Focus();
             Entry_Password.Completed += (s, e) => Btn_Login.Focus();
             Btn_Login.BackgroundColor = Color.Orange;
             Btn_Reset.BackgroundColor = Color.Green;
@@ -39,14 +43,39 @@ namespace foodify
         }
 
 
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+
+
+            // using instead of close();
+            using (SQLiteConnection conn = new SQLiteConnection(App.DatabaseLocation))
+            {
+                conn.CreateTable<Post>();
+                var posts = conn.Table<Post>().ToList();
+
+
+                var table = conn.Table<Post>();
+                foreach (var s in table)
+                {
+
+                    passwordEntered = s.Password;
+                    EmailEntered = s.Email;
+                }
+                // profilelistView.ItemsSource = posts;
+            }
+        }
+
+
 
         void LoginClickedAsync(object sender, EventArgs eventArgs)
         {
 
-            User user = new User(Entry_Username.Text, Entry_Password.Text);
-            if (user.CheckInformation())
+           
+            if (Entry_Email.Text == EmailEntered && Entry_Password.Text == passwordEntered )
             {
                 DisplayAlert("Login", "Login Success", "ok");
+                Navigation.PushAsync(new MainPage());
             }
             else
             {

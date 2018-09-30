@@ -7,6 +7,7 @@ namespace foodify
 {
     public partial class App : Application
     {
+        public static string DatabaseLocation = string.Empty;
         public App()
         {
             InitializeComponent();
@@ -14,6 +15,16 @@ namespace foodify
             //MainPage = new MainPage();
             MainPage = new NavigationPage(new LoginPage());
         }
+
+        public App(string databaseLocation)
+        {
+            InitializeComponent();
+
+            MainPage = new NavigationPage(new LoginPage());
+
+            DatabaseLocation = databaseLocation;
+        }
+
 
         protected override void OnStart()
         {

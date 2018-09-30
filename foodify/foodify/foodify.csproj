@@ -7,10 +7,12 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.2.0.839982" />
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.5.231" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="HomePage.cs" />
     <Compile Remove="SplashScreen.cs" />
+    <Compile Remove="Model\Path.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
