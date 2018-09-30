@@ -26,3 +26,7 @@ https://bitbucket.org/SIT313_Foodify/foodify/src/master/
 Link for GitHub:
 
 https://github.com/ShyamLingam/SIT313-Foodify
+
+Link for Json File:
+
+http://demo7712681.mockable.io/foodify
