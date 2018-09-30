@@ -34,7 +34,7 @@ namespace foodify
 
             //HttpClient client = new HttpClient();
             var client = new System.Net.Http.HttpClient();
-            var response = await client.GetAsync("https://api.myjson.com/bins/13pavw");
+            var response = await client.GetAsync("http://demo7712681.mockable.io/foodify");
             string JsonData = await response.Content.ReadAsStringAsync();
             foodList ObjfoodList = new foodList();
 
@@ -44,7 +44,7 @@ namespace foodify
                 ObjfoodList = JsonConvert.DeserializeObject<foodList>(JsonData);
 
             }
-            WorkoutListView.ItemsSource = ObjfoodList.workouts;
+            WorkoutListView.ItemsSource = ObjfoodList.cookingList;
         }
 
 

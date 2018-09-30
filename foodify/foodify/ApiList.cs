@@ -14,10 +14,13 @@ namespace foodify
 
         public string Instructions { get; set; }
 
+        public string Image { get; set; }
+
+
     }
     public class foodList
     {
-        public List<ApiList> workouts { get; set; }
+        public List<ApiList> cookingList { get; set; }
     }
 }
 

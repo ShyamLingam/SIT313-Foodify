@@ -21,13 +21,13 @@
             <Image HeightRequest="100" HorizontalOptions="Center" Source="John.png" TranslationY="50" VerticalOptions="End" WidthRequest="100" />
             
             <!-- profile name -->
-            <StackLayout Grid.Row="1" Padding="0,50,0,00" HorizontalOptions="Center">
+            <StackLayout Grid.Row="1" Padding="0,50,0,00" HorizontalOptions="Center" VerticalOptions="Center">
             
                 <Label x:Name="FirstNamelbl" HorizontalTextAlignment="Center" Style="{StaticResource ProfileNameLabel}" Text="First Name"/>
                  <Label x:Name="LastNamelbl" HorizontalTextAlignment="Center" Style="{StaticResource ProfileNameLabel}" Text="Last Name"/>
                  <Label x:Name="Emaillbl" HorizontalTextAlignment="Center" Style="{StaticResource Email}" Text="Email"/>
-                <Label Margin="0,-5" HorizontalTextAlignment="Center" Style="{StaticResource ProfileTagLabel}" Text="Member since 05/03/2017" />
-            </StackLayout>
+<!--                <Label Margin="0,-5" HorizontalTextAlignment="Center" Style="{StaticResource ProfileTagLabel}" Text="Member since 05/03/2017" />
+-->            </StackLayout>
             
             <!-- social media URLs -->
             <Grid Grid.Row="2" Margin="0,30" ColumnSpacing="0" RowSpacing="0">

@@ -42,6 +42,7 @@ namespace foodify
             Btn_Reg.BackgroundColor = Color.Green;
         }
 
+       
 
         protected override void OnAppearing()
         {
@@ -66,21 +67,25 @@ namespace foodify
             }
         }
 
-
-
+       
         void LoginClickedAsync(object sender, EventArgs eventArgs)
         {
 
-           
+            bool isLoginEmailEmpty = string.IsNullOrEmpty(Entry_Email.Text);
+            bool isLoginPasswordEmpty = string.IsNullOrEmpty(Entry_Password.Text);
+
+
+            if (isLoginEmailEmpty || isLoginPasswordEmpty)
+            {
+                DisplayAlert("Login", "Username or Password is Incorrect", "ok");
+            }
             if (Entry_Email.Text == EmailEntered && Entry_Password.Text == passwordEntered )
             {
                 DisplayAlert("Login", "Login Success", "ok");
                 Navigation.PushAsync(new MainPage());
             }
-            else
-            {
-                DisplayAlert("Login", "Username or Password is Incorrect", "ok");
-            }
+
+
         }
     }
 }

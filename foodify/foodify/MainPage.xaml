@@ -2,8 +2,6 @@
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:foodify" x:Class="foodify.MainPage">
 
     <local:HomePage></local:HomePage>
-    <local:MySavedList></local:MySavedList>
-    <local:CompletedPage></local:CompletedPage>
     <local:LoginPage></local:LoginPage>
     <local:ProfilePage></local:ProfilePage>
     
