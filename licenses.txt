@@ -1,0 +1,24 @@
+
+\Foodify\
+License File created by: Group 5\
+\
+
+Item Name:pasta.jpg
+License Type: Free for non-commerical use
+Source Website: https://thumb.ibb.co/nD8mZK/pasta.jpg
+
+Item Name:butter.jpg
+License Type: Free for non-commerical use
+Source Website: https://thumb.ibb.co/fym11z/butter.jpg
+
+Item Name:pumpkin.jpg
+License Type: Free for non-commerical use
+Source Website: https://thumb.ibb.co/m6EtEK/pumpkin.jpg
+
+Item Name:mushroom.jpg
+License Type: Free for non-commerical use
+Source Website: https://thumb.ibb.co/id8mZK/mushroom.jpg
+
+Item Name:rice.jpg
+License Type: Free for non-commerical use
+Source Website: https://thumb.ibb.co/cbZogz/rice.jpg
