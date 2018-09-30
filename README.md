@@ -22,3 +22,7 @@ Foodify app delivers you with easy and free access to recipes from all across th
 Link for BitBucket: 
 
 https://bitbucket.org/SIT313_Foodify/foodify/src/master/
+
+Link for GitHub:
+
+https://github.com/ShyamLingam/SIT313-Foodify
